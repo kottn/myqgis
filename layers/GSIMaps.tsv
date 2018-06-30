@@ -1,0 +1,16 @@
+#GSIMaps.tsv									
+#Last update: 2017-02-02									
+#title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
+標準地図	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png	1	2	18				
+淡色地図	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png	1	2	18				
+白地図	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png	1	5	14	122.78	20.4	154.78	45.58
+English	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/english/{z}/{x}/{y}.png	1	5	11	122.78	20.4	154.78	45.58
+色別標高図	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/relief/{z}/{x}/{y}.png	1	5	15	122.78	20.4	154.78	45.58
+写真	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg	1	2	18				
+国土画像情報（第一期：1974～1978年撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/gazo1/{z}/{x}/{y}.jpg	1	10	17	122.78	20.4	154.78	45.58
+国土画像情報（第二期：1979～1983年撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/gazo2/{z}/{x}/{y}.jpg	1	15	17	122.78	20.4	154.78	45.58
+国土画像情報（第三期：1984～1986年撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/gazo3/{z}/{x}/{y}.jpg	1	15	17	122.78	20.4	154.78	45.58
+国土画像情報（第四期：1988～1990年撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/gazo4/{z}/{x}/{y}.jpg	1	15	17	122.78	20.4	154.78	45.58
+空中写真（1961～1964年）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/ort_old10/{z}/{x}/{y}.png	1	15	17	122.78	20.4	154.78	45.58
+空中写真（1945～1950年）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/ort_USA10/{z}/{x}/{y}.png	1	15	17	122.78	20.4	154.78	45.58
+簡易空中写真（2004年～）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/airphoto/{z}/{x}/{y}.png	1	5	18	122.78	20.4	154.78	45.58

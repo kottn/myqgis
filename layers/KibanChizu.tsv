@@ -1,0 +1,6 @@
+#KibanChizu.tsv									
+#Last update: 2017-08-12									
+#title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
+基盤地図情報数値標高モデル(10m)	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/dem_png/{z}/{x}/{y}.png	1	0	14
+基盤地図情報数値標高モデル(5m-A)	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/dem5a_png/{z}/{x}/{y}.png	1	15	15
+基盤地図情報数値標高モデル(5m-B)	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/dem5b_png/{z}/{x}/{y}.png	1	15	15

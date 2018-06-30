@@ -1,0 +1,32 @@
+#GSIMapsDisaster.tsv									
+#Created: 2016-02-22									
+#LastChange: 2017-08-03(kotani)									
+#title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
+東日本大震災被災地震災直後オルソ画像（2011年3月～2011年4月撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/toho1/{z}/{x}/{y}.jpg	1	15	17				
+東日本大震災被災地震災後オルソ画像（2011年5月～2012年4月撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/toho2/{z}/{x}/{y}.jpg	1	15	18				
+東日本大震災被災地震災後オルソ画像（2012年10月～2013年5月撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/toho3/{z}/{x}/{y}.jpg	1	15	18				
+災害復興計画基図	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/fukkokizu/{z}/{x}/{y}.png	1	18	18				
+7月17日からの大雨 山口地方「須佐地区」正射画像（2013年7月31日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20130717dol/{z}/{x}/{y}.png	1	10	18	131.41	34.4	131.79	34.72
+7月17日からの大雨 山口地方「須佐地区」正射画像（2013年8月7日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20130717dol2/{z}/{x}/{y}.png	1	10	18	131.41	34.4	131.79	34.72
+9月2日の突風 正射画像（2013年9月9日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20130902dol/{z}/{x}/{y}.png	1	10	18	139.69	35.88	139.95	36.02
+台風第26号の大雨（大島町）正射画像（2012年4月撮影）	地理院タイル	http://geolib.gsi.go.jp/tiles/izuoshima/laserortho/{z}/{x}/{x}-{y}-{z}.png	1	8	18	139.34	34.67	139.46	34.8
+台風第26号の大雨（大島町）正射画像（2013年10月17日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20131017dol/{z}/{x}/{y}.png	1	10	18	139.34	34.67	139.46	34.8
+台風第26号・27号の大雨（大島町）正射画像（2013年10月28日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20131017dol2/{z}/{x}/{y}.png	1	10	18	139.34	34.67	139.46	34.8
+西之島付近噴火活動 正射画像（2013年12月4日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20131204doh/{z}/{x}/{y}.png	1	10	18	140.86	27.23	140.89	27.26
+西之島付近噴火活動 正射画像（2013年12月17日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20131217doh/{z}/{x}/{y}.png	1	10	18	140.86	27.23	140.89	27.26
+西之島付近噴火活動 正射画像（2014年2月16日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140216doh/{z}/{x}/{y}.png	1	10	18	140.86	27.23	140.89	27.26
+西之島付近噴火活動 正射画像（2014年3月22日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140322dol/{z}/{x}/{y}.png	1	10	18	140.86	27.23	140.89	27.26
+西之島付近噴火活動 正射画像（2014年7月4日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140704dol/{z}/{x}/{y}.png	1	10	18	140.86	27.23	140.89	27.26
+台風第８号等による大雨（南木曽町）斜め写真による正射画像（2014年7月撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140711dol/{z}/{x}/{y}.png	1	8	18	137.6	35.59	137.63	35.62
+台風第12号・第11号による大雨（北川村）正射画像（2014年8月13日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140813dol/{z}/{x}/{y}.png	1	10	18	134.04	33.44	134.17	33.55
+8月16日からの大雨（丹波市市島）正射画像（2014年8月撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140819dol/{z}/{x}/{y}.png	1	10	18	135.03	35.2	135.17	35.27
+8月16日からの大雨（広島市安佐南区八木）斜め写真による正射画像（2014年8月撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140820dol/{z}/{x}/{y}.png	1	10	18	132.35	34.41	132.6	34.58
+8月16日からの大雨（広島市安佐南区山本）斜め写真による正射画像（2014年8月撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140820dol2/{z}/{x}/{y}.png	1	10	18	132.35	34.41	132.6	34.58
+8月16日からの大雨（広島市安佐北区可部）斜め写真による正射画像（2014年8月撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140820dol3/{z}/{x}/{y}.png	1	10	18	132.35	34.41	132.6	34.58
+8月16日からの大雨（広島市内）過去の正射画像（1947年～1948年）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/19480000dol/{z}/{x}/{y}.png	1	10	18	132.35	34.41	132.6	34.58
+8月16日からの大雨（広島市内）過去の正射画像（1962年）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/19620000dol/{z}/{x}/{y}.png	1	10	18	132.35	34.41	132.6	34.58
+8月16日からの大雨（広島市内）正射画像（2014年8月28日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140828dol/{z}/{x}/{y}.png	1	10	18	132.35	34.41	132.6	34.58
+8月16日からの大雨（広島市内）正射画像（2014年8月30日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140830dol/{z}/{x}/{y}.png	1	10	18	132.35	34.41	132.6	34.58
+8月16日からの大雨（広島市内）正射画像（2014年8月30・31日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140831dol/{z}/{x}/{y}.png	1	10	18	132.35	34.41	132.6	34.58
+御嶽山噴火活動 斜め写真による正射画像（2014年9月28日撮影）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/20140928dol/{z}/{x}/{y}.png	1	10	18	137.35	35.78	137.61	35.98
+全国傾斜量区分図（雪崩関連）	地理院タイル	http://cyberjapandata.gsi.go.jp/xyz/slopezone1map/{z}/{x}/{y}.png	1	3	15
